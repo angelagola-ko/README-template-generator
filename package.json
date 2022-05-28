@@ -4,11 +4,21 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^6.3.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelagola-ko/ReadMeGen.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/angelagola-ko/ReadMeGen/issues"
+  },
+  "homepage": "https://github.com/angelagola-ko/ReadMeGen#readme"
 }
