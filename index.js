@@ -39,7 +39,7 @@ const questions = [
     { 
         type: 'input',
         message: "Please enter your name.",
-        name: 'developer',
+        name: 'contributers',
         validate: (value) => {if (value) {return true} else {return 'Please enter a value to continue.'}}
     },
     { 

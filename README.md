@@ -1,27 +1,34 @@
+=
+  # My Mom Loves The Gay
 
-  // <need more code here>
-  # Read Me Generator
-
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributers](#contributers)
+  * [Tests](#tests)
+  * [Questions](#questions)
+  
   # Description:
-  #### A node program to create a professional readme
+  #### Prying my mom to tell me how she really feels 
 
-  #installation 
-  #### requirer, node, 
+  # Installation 
+  #### node,
 
-  #Usage
-  #### Use to create a readme
+  # Usage
+  #### use it up
 
-  #License
-  #### MIT,GNU
+  # License
+  #### 
 
-  #Developer
-  #### Angela Gola
+  # Contributers
+  #### undefined
 
-  #Tests
-  #### In VSCode
+  # Tests
+  #### with your hands
 
-  #Questions
-  #### Please email me for any questions.
-  #### angelagola.ko@gmail.com
+  # Questions
+  #### get a laptop and do it
+  #### agelagola.ko
 
   
