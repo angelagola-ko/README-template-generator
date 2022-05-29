@@ -90,7 +90,7 @@ ${renderLicenseBadge(data.license)}
   ## [Contributers](#table-of-contents)
 
 
-  #### ${data.contributers}
+  * ${data.contributers}
 
 
   ## [Tests](#table-of-contents)
@@ -105,9 +105,9 @@ ${renderLicenseBadge(data.license)}
   Please contact me using the following links:
   
 
-  [GitHub](http://github.com/${data.github})
+  * [GitHub](http://github.com/${data.github})
 
-  [Email: ${data.email}](mailto:${data.email})
+  * [Email: ${data.email}](mailto:${data.email})
 
   `;
 
