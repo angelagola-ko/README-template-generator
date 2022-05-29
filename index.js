@@ -31,10 +31,10 @@ const questions = [
         
     },
     {
-        type: 'checkbox',
+        type: 'list',
         name: 'license',
         message: 'Please select license',
-        choices: ['MIT', 'GNU']
+        choices: ['mit', 'apache', 'agpl', 'no license']
       },
     { 
         type: 'input',
@@ -51,8 +51,8 @@ const questions = [
     },
     { 
         type: 'input',
-        message: "Enter instructions for how to contact for questions:",
-        name: 'questions',
+        message: "Enter your GitHub username",
+        name: 'github',
         validate: (value) => {if (value) {return true} else {return 'Please enter a value to continue.'}}
         
     },

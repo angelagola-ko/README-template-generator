@@ -1,7 +1,19 @@
+
+//WHEN I choose a license for my application from a list of options
+//THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
+
+
 const fs = require('fs');
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
+  //let licenseType = 
+  if (license !== 'no license') {
+    return `
+  ![badge](https://img.shields.io/badge/license-${license}-blue)`
+  } else {
+    return ' ';
+  }
 
 }
 
@@ -27,7 +39,8 @@ renderLicenseBadge(data.license)
   `
   
   # ${data.title}
-  
+
+${renderLicenseBadge(data.license)}
 
   * [Description](#description)
   * [Installation](#installation)
@@ -55,16 +68,19 @@ renderLicenseBadge(data.license)
 
 
   # Contributers
-  #### ${data.developer}
+  #### ${data.contributers}
 
 
   # Tests
   #### ${data.tests}
 
-  
+
   # Questions
-  #### ${data.questions}
-  #### ${data.email}
+  Please contact me using the following links:
+
+  [GitHub](http://github.com/${data.github})
+
+  [Email: ${data.email}](mailto:${data.email})
 
   `;
 
