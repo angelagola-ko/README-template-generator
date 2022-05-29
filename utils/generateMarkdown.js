@@ -63,19 +63,19 @@ ${renderLicenseBadge(data.license)}
   * [Questions](#questions)
   
 
-  ## Description:
+  ## [Description:](#table-of-contents)
 
 
   #### ${data.description}
 
 
-  ## Installation 
+  ## [Installation](#table-of-contents)
 
 
   #### ${data.installation}
 
 
-  ## Usage
+  ## [Usage](#table-of-contents)
 
 
   #### ${data.usage}
@@ -87,19 +87,19 @@ ${renderLicenseBadge(data.license)}
   ${renderLicenseSection(data.license)}
 
 
-  ## Contributers
+  ## [Contributers](#table-of-contents)
 
 
   #### ${data.contributers}
 
 
-  ## Tests
+  ## [Tests](#table-of-contents)
 
 
   #### ${data.tests}
 
 
-  ## Questions
+  ## [Questions](#table-of-contents)
 
 
   Please contact me using the following links:
