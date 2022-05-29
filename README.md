@@ -1,11 +1,10 @@
 
-  
-  # sdsfd
+  # ReadMe Generator
 
 
-  ![badge](https://img.shields.io/badge/license-mit-blue)
+  ![badge](https://img.shields.io/badge/license-agpl-blue)
 
-## Table-of-ontents
+## Table-of-Contents
 
   * [Description](#description)
   * [Installation](#installation)
@@ -16,41 +15,57 @@
   * [Questions](#questions)
   
 
-  # Description:
-  #### sdfsdfsd
+  ## Description:
 
 
-  # Installation 
-  #### fsdfsdf
+  #### fndfkdnaskdasndkasdasdkandaskdn lorm ipaum
 
 
-  # Usage
-  #### sdfsdf
+  ## Installation 
+
+
+  #### Inquirer
+
+
+  ## Usage
+
+
+  #### sdasd
+
+
+  ![Example Image](./images/ExampleImg.png)
 
 
   
-  # License
+  ## License
     
   The application is covered under the following license:
     
   
-  [![badge](https://img.shields.io/badge/license-mit-blue)](http://choosealicense.com/licenses/mit/)
+  [![badge](https://img.shields.io/badge/license-agpl-blue)](http://choosealicense.com/licenses/agpl/)
     
 
 
-  # Contributers
-  #### sdfsdf
+  ## Contributers
 
 
-  # Tests
-  #### sdfsdf
+  #### sdsdasd
 
 
-  # Questions
+  ## Tests
+
+
+  #### asdasd
+
+
+  ## Questions
+
+
   Please contact me using the following links:
+  
 
-  [GitHub](http://github.com/sdfsdf)
+  [GitHub](http://github.com/asdasd)
 
-  [Email: sdf](mailto:sdf)
+  [Email: zxczc](mailto:zxczc)
 
   
